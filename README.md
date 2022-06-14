@@ -4,7 +4,7 @@
 
 ___
 
-Im w4nc0d3 Greetings You
+Im wannazid Greetings You
 
 ___
 
@@ -16,8 +16,7 @@ What i am learning on these days
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannazid&theme=buefy&hide=css,html)
 
 ## Sosial Media :
-Instagram : <a href="https://Instagram.com/w4nfivezero"> W4nFiveZero
-------------
+
 Telegram : <a href="t.me/wanfivezero"> WanFiveZero
 ___
 
