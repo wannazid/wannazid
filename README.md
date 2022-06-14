@@ -1,6 +1,6 @@
 
 ## Helo Im wannazid
-<img align="center" height="auto" src="https://cdn.pixabay.com/photo/2020/10/25/17/06/boruto-5684895_1280.png"/>
+<img align="center" height="auto" src="https://wallpapercave.com/wp/wp5220371.png"/>
 
 ___
 
@@ -17,8 +17,7 @@ What i am learning on these days
 
 ## Sosial Media :
 Instagram : <a href="https://Instagram.com/w4nfivezero"> W4nFiveZero
-
-
+------------
 Telegram : <a href="t.me/wanfivezero"> WanFiveZero
 ___
 
