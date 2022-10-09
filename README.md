@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Pelajar+SMA;Komputer;Multimedia;Suka%20Python%20Sama%20Suka%20Nana;Blogger:malastech.my.id;Designer;Web%20Development%20Kadang-Kadang;CLI%20Development&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">Hallo saya wannazid, saya berasal dari yogyakarta,indonesia, saya adalah pelajar SMA yang hobi akan programming, dan saya masih terus belajar tentang dunia IT, CLI Development adalah hal saya sering lakukan, saya penyuka bahasa python dari awal belajar programming.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
