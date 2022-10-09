@@ -6,7 +6,7 @@
 <hr/>
 <h4 align="center">Hallo saya wannazid, saya berasal dari yogyakarta,indonesia, saya adalah pelajar SMA yang hobi akan programming, dan saya masih terus belajar tentang dunia IT, CLI Development adalah hal saya sering lakukan, saya penyuka bahasa python dari awal belajar programming.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=wannazid&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
@@ -165,9 +165,6 @@
 </p>
 
 <hr/>
-
-* Credit: [Candida18](https://github.com/Candida18)
-* Last Edited on: 20/07/2021
 
 
 
