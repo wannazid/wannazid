@@ -1,7 +1,7 @@
 
 <h1 align="center">Hallo, Saya Wannazid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Pelajar+SMA;Komputer;Multimedia;Suka%20Python%20Sama%20Suka%20Nana;Blogger:malastech.my.id;Designer;Web%20Development%20Kadang-Kadang;CLI%20Development&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Komputer;Multimedia;Suka%20Python;Blogger:malastech.my.id;Designer;Web%20Development%20Kadang-Kadang;CLI%20Development&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">Hallo saya wannazid,yang suka ngode dikala luang, soalnya pernah ngode dia gak pernah dapet soalnya.</h4>
