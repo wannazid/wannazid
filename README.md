@@ -33,7 +33,7 @@ Halo saya **wannazid**, saya suka dengan dunia **CLI (Command Line Interface)** 
 ---
 
 ### 📫 Contact
-Jika ingin berkolaborasi atau berbicara lebih jauh, silakan hubungi saya melalui Telegram
+- [Telegram](https://t.me/otaksenku)
 ---
 
 <p align="center">✨ Terima kasih telah mengunjungi repository saya ✨</p>
